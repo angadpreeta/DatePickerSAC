@@ -12,22 +12,22 @@
 			"kind": "main",
 			"tag": "com-sap-sample-coloredbox",
 			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
-			"integrity": "",
-			"ignoreIntegrity": true
+			"integrity": "sha384-+vakt0StfSs2TMbuZvSUUNconF4jCoqsVE8bRPKpCNla2K2ZHB1Mul9uZx+a+I2P",
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-coloredbox-styling",
 			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
-			"integrity": "",
-			"ignoreIntegrity": true
+			"integrity": "sha384-+vakt0StfSs2TMbuZvSUUNconF4jCoqsVE8bRPKpCNla2K2ZHB1Mul9uZx+a+I2P",
+			"ignoreIntegrity": false
 		},
 		{
 			"kind": "builder",
 			"tag": "com-sap-sample-coloredbox-builder",
 			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
-			"integrity": "",
-			"ignoreIntegrity": true
+			"integrity": "sha384-+vakt0StfSs2TMbuZvSUUNconF4jCoqsVE8bRPKpCNla2K2ZHB1Mul9uZx+a+I2P",
+			"ignoreIntegrity": false
 		}
 	],
 	"properties": {
