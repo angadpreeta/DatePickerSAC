@@ -11,21 +11,21 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-coloredbox",
-			"url": "/coloredbox_main.js",
+			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-coloredbox-styling",
-			"url": "/coloredbox_styling.js",
+			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-sap-sample-coloredbox-builder",
-			"url": "/coloredbox_builder.js",
+			"url": "https://github.com/angadpreeta/DatePickerSAC.git",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
